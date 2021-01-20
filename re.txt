@@ -1,0 +1,17 @@
+
+
+Things to do;
+
+Weathers:
+1. rain;
+2. pleasant
+3. lightning
+4. ice rain
+
+Door moving
+
+Rooms
+
+Hazards:
+1. electric
+2. lavapit
